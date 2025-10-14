@@ -31,14 +31,14 @@
 ## 🧠 Habilidades & Expertise
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript/TypeScript-75%-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript/TypeScript 75%"/>
-  <img src="https://img.shields.io/badge/React/Next.js-90%-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React/Next.js 90%"/>
-  <img src="https://img.shields.io/badge/Node.js-65%-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 65%"/>
-  <img src="https://img.shields.io/badge/Data_Mining-80%-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Mining 80%"/>
-  <img src="https://img.shields.io/badge/Lua-65%-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua 65%"/>
-  <img src="https://img.shields.io/badge/Machine_Learning-75%-FFC300?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning 75%"/>
-  <img src="https://img.shields.io/badge/Deep_Learning-70%-5DADE2?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning 70%"/>
-  <img src="https://img.shields.io/badge/Artificial_Neural_Networks-65%-58D68D?style=for-the-badge&logo=intel&logoColor=white" alt="Artificial Neural Networks 65%"/>
+  <img src="https://img.shields.io/badge/JavaScript/TypeScript-75%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript/TypeScript 75%"/>
+  <img src="https://img.shields.io/badge/React/Next.js-90%25-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React/Next.js 90%"/>
+  <img src="https://img.shields.io/badge/Node.js-65%25-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js 65%"/>
+  <img src="https://img.shields.io/badge/Data%20Mining-80%25-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Mining 80%"/>
+  <img src="https://img.shields.io/badge/Lua-65%25-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua 65%"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-75%25-FFC300?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning 75%"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-70%25-5DADE2?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning 70%"/>
+  <img src="https://img.shields.io/badge/Artificial%20Neural%20Networks-65%25-58D68D?style=for-the-badge&logo=intel&logoColor=white" alt="Artificial Neural Networks 65%"/>
 </p>
 
 <p align="center">
@@ -91,7 +91,7 @@
 </table>
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO?tab=repositories">
+  <a href="https://jayal.netlify.app">
     <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-255E63?style=for-the-badge" alt="Ver Todos os Projetos"/>
   </a>
 </p>
