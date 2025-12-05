@@ -23,7 +23,7 @@
 <ul>
   <li>🔭 Atualmente estou trabalhando em um projeto: Anny I.A</li>
   <li>💬 Pergunte-me sobre qualquer coisa relacionada a Carros ou Inteligência Artificial.</li>
-  <li>⚡ Fato curioso: Fui uma das primeiras pessoas a conseguir uma parceria de projeto com a OpenAI!</li>
+  <li>⚡ Fato curioso: Meu primeiro projeto público foi lançado em 2018!</li>
 </ul>
 
 <hr>
