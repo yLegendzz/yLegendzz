@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/jaya-l-4a55a0386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://jayal.netlify.app" target="_blank">
+  <a href="https://jaya.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
@@ -91,7 +91,7 @@
 </table>
 
 <p align="center">
-  <a href="https://jayal.netlify.app">
+  <a href="https://jaya.is-a.dev/">
     <img src="https://img.shields.io/badge/Ver%20Todos%20os%20Projetos-255E63?style=for-the-badge" alt="Ver Todos os Projetos"/>
   </a>
 </p>
