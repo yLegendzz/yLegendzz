@@ -1,92 +1,80 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=JayA%20Full-Stack&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
-
-  <img src="https://komarev.com/ghpvc/?username=yLegendzz&label=PERFIL%20VIEWS&color=0077B5&style=flat-square" alt="Views" />
-  
-  <p align="center">
-    <a href="https://www.linkedin.com/in/jaya-l-4a55a0386/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://jaya.is-a.dev/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white" />
-    </a>
-  </p>
-</div>
-
-## ⚡ Sobre Mim
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="60%">
-        <p align="left">
-          Um arquiteto de software apaixonado por <b>Inteligência Artificial</b> e <b>UX/UI</b>. Com 7 anos de estrada, foco em transformar problemas complexos em interfaces elegantes e escaláveis. Atualmente, liderando o desenvolvimento da <b>Anny I.A</b>.
-        </p>
-        <p align="left">
-          🚀 <b>Fato Curioso:</b> Lanço projetos públicos desde 2018.<br>
-          💬 <b>Expertise:</b> Carros, Sistemas Distribuídos e Modelos de Linguagem.
-        </p>
-      </td>
-      <td width="40%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLegendzz&layout=compact&theme=dracula&hide_border=true&title_color=0077B5" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🛠️ Tech Stack & Skills
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,figma" alt="Frontend" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,tensorflow,java,lua" alt="Backend/AI" /><br>
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,postman" alt="DevOps" />
-</p>
-
----
-
-## 🚀 Projetos em Destaque
-<div align="center">
-
-  <a href="https://github.com/yLegendzz/NOME-DO-REPO" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=ANNY-IA&theme=dracula&show_owner=false" alt="Anny IA" />
+  <a href="https://jaya.is-a.dev/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=%3E_++Ol%C3%A1%2C+eu+sou+o+JayA+;%3E_++Senior+Full-Stack+Developer;%3E_++Especialista+em+I.A+%26+Machine+Learning;%3E_++Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2018" alt="Typing SVG" />
   </a>
 
-  <a href="https://github.com/yLegendzz/NOME-DO-REPO" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=POKEDEX-PROJECT&theme=dracula&show_owner=false" alt="Pokedex" />
+  <br>
+
+  <a href="https://www.linkedin.com/in/jaya-l-4a55a0386/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://github.com/yLegendzz/NOME-DO-REPO" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=MULTISOURCE-SEARCH&theme=dracula&show_owner=false" alt="Search App" />
+  <a href="https://jaya.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Portfólio"/>
   </a>
-
-</div>
-
-<p align="center">
-  <i>Clique nos cards acima para explorar o código-fonte ↗️</i>
-</p>
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yLegendzz&theme=dracula&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yLegendzz&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yLegendzz/yLegendzz/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
+## 👨‍💻 `whoami`
 
----
+```json
+{
+  "nome": "JayA",
+  "cargo": "Desenvolvedor Full-Stack Sênior",
+  "experiencia": "7+ anos",
+  "foco_atual": ["Inteligência Artificial", "Web Apps de Alta Performance", "UX/UI"],
+  "projetos_em_andamento": {
+    "Anny_IA": "Assistente inteligente com modelos de Machine/Deep Learning integrado ao Discord"
+  },
+  "interesses_pessoais": ["Sistemas Distribuídos", "Automobilismo / Carros 🚗"],
+  "easter_egg": "Meu primeiro projeto público foi ao ar em 2018!"
+}
+````
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" />
-</div>
+<br>
 
-<p align="center">
-  <sub>Construído com ☕ e muito código por <b>JayA</b></sub>
-</p>
+## ⚡ Tecnologias & Arsenal
+
+\<p align="center"\>
+\<a href="https://www.google.com/search?q=https://skillicons.dev"\>
+\<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,tensorflow,java,lua,docker,aws,git,linux,figma%26perline%3D15" /\>
+\</a\>
+\</p\>
+
+<br>
+
+## 🏆 Troféus & Estatísticas
+
+\<div align="center"\>
+\<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DyLegendzz%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15" alt="Trophies" /\>
+\</div\>
+
+<br>
+
+\<div align="center"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DyLegendzz%26show\_icons%3Dtrue%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" width="48%" /\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DyLegendzz%26layout%3Dcompact%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" width="48%" /\>
+\</div\>
+
+<br>
+
+## 🚀 Projetos em Destaque
+
+\<div align="center"\>
+
+\<a href="https://www.google.com/search?q=https://github.com/yLegendzz/NOME-DO-SEU-REPO-DA-ANNY" target="\_blank"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DyLegendzz%26repo%3DNOME-DO-SEU-REPO-DA-ANNY%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" alt="Anny IA" /\>
+\</a\>
+
+\<a href="https://www.google.com/search?q=https://github.com/yLegendzz/NOME-DO-OUTRO-REPO" target="\_blank"\>
+\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DyLegendzz%26repo%3DNOME-DO-OUTRO-REPO%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" alt="Projeto 2" /\>
+\</a\>
+
+\</div\>
+
+<br>
+
+\<div align="center"\>
+\<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DyLegendzz%26label%3DVISITANTES%26color%3D61DAFB%26style%3Dfor-the-badge" alt="Views" /\>
+\</div\>
