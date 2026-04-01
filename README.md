@@ -62,12 +62,12 @@
 
 <div align="center">
 
-  <a href="https://github.com/yLegendzz/NOME-DO-SEU-REPO-DA-ANNY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=NOME-DO-SEU-REPO-DA-ANNY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Anny IA" />
+  <a href="https://github.com/yLegendzz/Anny">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Anny&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Anny IA" />
   </a>
 
-  <a href="https://github.com/yLegendzz/NOME-DO-OUTRO-REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=NOME-DO-OUTRO-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Projeto 2" />
+  <a href="https://github.com/yLegendzz/Downtime-Notifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Downtime-Notifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Projeto 2" />
   </a>
 
 </div>
