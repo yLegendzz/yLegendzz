@@ -45,10 +45,6 @@
 
 ## 🏆 Estatísticas
 
-<div align="center">
-  <img src="https://github-readme-stats-silk-one.vercel.app/api?username=yLegendzz" />
-</div>
-
 <br>
 
 <div align="center">
