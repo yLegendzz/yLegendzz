@@ -17,7 +17,7 @@
 
 ## 👨‍💻 `whoami`
 
-```json
+```json id="fix1"
 {
   "nome": "JayA",
   "cargo": "Desenvolvedor Full-Stack Sênior",
@@ -46,8 +46,8 @@
 ## 🏆 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yLegendzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLegendzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yLegendzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yLegendzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
@@ -78,8 +78,7 @@
 
 ### 🚀 Anny IA
 
-Assistente inteligente com IA integrada ao Discord, focado em automação, interação e aprendizado contínuo.
-
+Assistente inteligente com IA integrada ao Discord, focado em automação e aprendizado contínuo.
 🔗 https://github.com/yLegendzz/Anny
 
 ---
@@ -87,7 +86,6 @@ Assistente inteligente com IA integrada ao Discord, focado em automação, inter
 ### ⚡ Downtime Notifier
 
 Sistema de monitoramento que detecta quedas de serviços e envia alertas em tempo real.
-
 🔗 https://github.com/yLegendzz/Downtime-Notifier
 
 <br>
