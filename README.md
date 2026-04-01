@@ -1,15 +1,14 @@
-
 <div align="center">
   <a href="https://jaya.is-a.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=%3E_++Ol%C3%A1%2C+eu+sou+o+JayA+;%3E_++Senior+Full-Stack+Developer;%3E_++Especialista+em+I.A+%26+Machine+Learning;%3E_++Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2018" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=%3E_++Ol%C3%A1%2C+eu+sou+o+JayA;%3E_++Senior+Full-Stack+Developer;%3E_++Especialista+em+I.A+%26+Machine+Learning;%3E_++Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2018" alt="Typing SVG" />
   </a>
 
   <br>
 
-  <a href="https://www.linkedin.com/in/jaya-l-4a55a0386/" target="_blank">
+  <a href="https://www.linkedin.com/in/jaya-l-4a55a0386/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://jaya.is-a.dev/" target="_blank">
+  <a href="https://jaya.is-a.dev/">
     <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Portfólio"/>
   </a>
 </div>
@@ -30,51 +29,51 @@
   "interesses_pessoais": ["Sistemas Distribuídos", "Automobilismo / Carros 🚗"],
   "easter_egg": "Meu primeiro projeto público foi ao ar em 2018!"
 }
-````
+```
 
 <br>
 
 ## ⚡ Tecnologias & Arsenal
 
-\<p align="center"\>
-\<a href="https://www.google.com/search?q=https://skillicons.dev"\>
-\<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,express,mongodb,tensorflow,java,lua,docker,aws,git,linux,figma%26perline%3D15" /\>
-\</a\>
-\</p\>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tensorflow,java,lua,docker,aws,git,linux,figma&perline=15" />
+  </a>
+</p>
 
 <br>
 
 ## 🏆 Troféus & Estatísticas
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://github-profile-trophy.vercel.app/%3Fusername%3DyLegendzz%26theme%3Ddracula%26no-frame%3Dtrue%26no-bg%3Dtrue%26margin-w%3D15" alt="Trophies" /\>
-\</div\>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yLegendzz&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+</div>
 
 <br>
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DyLegendzz%26show\_icons%3Dtrue%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" width="48%" /\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DyLegendzz%26layout%3Dcompact%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" width="48%" /\>
-\</div\>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yLegendzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLegendzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" width="48%" />
+</div>
 
 <br>
 
 ## 🚀 Projetos em Destaque
 
-\<div align="center"\>
+<div align="center">
 
-\<a href="https://www.google.com/search?q=https://github.com/yLegendzz/NOME-DO-SEU-REPO-DA-ANNY" target="\_blank"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DyLegendzz%26repo%3DNOME-DO-SEU-REPO-DA-ANNY%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" alt="Anny IA" /\>
-\</a\>
+  <a href="https://github.com/yLegendzz/NOME-DO-SEU-REPO-DA-ANNY">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=NOME-DO-SEU-REPO-DA-ANNY&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Anny IA" />
+  </a>
 
-\<a href="https://www.google.com/search?q=https://github.com/yLegendzz/NOME-DO-OUTRO-REPO" target="\_blank"\>
-\<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3DyLegendzz%26repo%3DNOME-DO-OUTRO-REPO%26theme%3Dtokyonight%26hide\_border%3Dtrue%26bg\_color%3D0D1117%26title\_color%3D61DAFB" alt="Projeto 2" /\>
-\</a\>
+  <a href="https://github.com/yLegendzz/NOME-DO-OUTRO-REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=NOME-DO-OUTRO-REPO&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Projeto 2" />
+  </a>
 
-\</div\>
+</div>
 
 <br>
 
-\<div align="center"\>
-\<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3DyLegendzz%26label%3DVISITANTES%26color%3D61DAFB%26style%3Dfor-the-badge" alt="Views" /\>
-\</div\>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yLegendzz&label=VISITANTES&color=61DAFB&style=for-the-badge" alt="Views" />
+</div>
