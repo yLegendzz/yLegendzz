@@ -43,13 +43,7 @@
 
 <br>
 
-## 🏆 Troféus & Estatísticas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yLegendzz&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
-</div>
-
-<br>
+## 🏆 Estatísticas
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yLegendzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
@@ -67,14 +61,34 @@
 ## 🚀 Projetos em Destaque
 
 <div align="center">
+
   <a href="https://github.com/yLegendzz/Anny">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Anny&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/🚀%20Anny%20IA-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB" />
   </a>
 
   <a href="https://github.com/yLegendzz/Downtime-Notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Downtime-Notifier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img src="https://img.shields.io/badge/⚡%20Downtime%20Notifier-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB" />
   </a>
+
 </div>
+
+<br>
+
+## 📌 Sobre os Projetos
+
+### 🚀 Anny IA
+
+Assistente inteligente com IA integrada ao Discord, focado em automação, interação e aprendizado contínuo.
+
+🔗 https://github.com/yLegendzz/Anny
+
+---
+
+### ⚡ Downtime Notifier
+
+Sistema de monitoramento que detecta quedas de serviços e envia alertas em tempo real.
+
+🔗 https://github.com/yLegendzz/Downtime-Notifier
 
 <br>
 
