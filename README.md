@@ -46,28 +46,32 @@
 ## 🏆 Troféus & Estatísticas
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yLegendzz&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yLegendzz&theme=algolia&no-frame=true&no-bg=true&margin-w=10" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yLegendzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLegendzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yLegendzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yLegendzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
 </div>
 
 <br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=yLegendzz&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
+</div>
 
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 
   <a href="https://github.com/yLegendzz/Anny">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Anny&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Anny IA" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Anny&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 
   <a href="https://github.com/yLegendzz/Downtime-Notifier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Downtime-Notifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=61DAFB" alt="Projeto 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Downtime-Notifier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 
 </div>
@@ -75,5 +79,5 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yLegendzz&label=VISITANTES&color=61DAFB&style=for-the-badge" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=yLegendzz&label=VISITANTES&color=0e75b6&style=for-the-badge" />
 </div>
