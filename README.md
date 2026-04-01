@@ -1,15 +1,15 @@
 <div align="center">
   <a href="https://jaya.is-a.dev/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=%3E_++Ol%C3%A1%2C+eu+sou+o+JayA;%3E_++Senior+Full-Stack+Developer;%3E_++Especialista+em+I.A+%26+Machine+Learning;%3E_++Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2018" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=61DAFB&center=true&vCenter=true&width=800&height=80&lines=%3E_++Ol%C3%A1%2C+eu+sou+o+JayA;%3E_++Senior+Full-Stack+Developer;%3E_++Especialista+em+I.A+%26+Machine+Learning;%3E_++Transformando+caf%C3%A9+em+c%C3%B3digo+desde+2018" />
   </a>
 
   <br>
 
   <a href="https://www.linkedin.com/in/jaya-l-4a55a0386/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://jaya.is-a.dev/">
-    <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white" alt="Portfólio"/>
+    <img src="https://img.shields.io/badge/Portfólio-255E63?style=for-the-badge&logo=stackblitz&logoColor=white"/>
   </a>
 </div>
 
@@ -62,10 +62,11 @@
   <img src="https://streak-stats.demolab.com?user=yLegendzz&theme=tokyonight&hide_border=true&background=0D1117" width="70%" />
 </div>
 
+<br>
+
 ## 🚀 Projetos em Destaque
 
 <div align="center">
-
   <a href="https://github.com/yLegendzz/Anny">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Anny&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
@@ -73,7 +74,6 @@
   <a href="https://github.com/yLegendzz/Downtime-Notifier">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=yLegendzz&repo=Downtime-Notifier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
-
 </div>
 
 <br>
