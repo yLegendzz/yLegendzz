@@ -65,6 +65,10 @@
     <img src="https://img.shields.io/badge/⚡%20Downtime%20Notifier-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB" />
   </a>
 
+  <a href="https://github.com/yLegendzz/Speedcheck">
+    <img src="https://img.shields.io/badge/🌍%20Speedcheck-0D1117?style=for-the-badge&logo=github&logoColor=61DAFB" />
+  </a>
+
 </div>
 
 <br>
