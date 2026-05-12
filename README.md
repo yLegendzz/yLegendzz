@@ -76,16 +76,16 @@
 ## 📌 Sobre os Projetos
 
 ### 🚀 Anny IA
-
 Assistente inteligente com IA integrada ao Discord, focado em automação e aprendizado contínuo.
 🔗 https://github.com/yLegendzz/Anny
 
----
-
 ### ⚡ Downtime Notifier
-
-Sistema de monitoramento que detecta quedas de serviços e envia alertas em tempo real.
+Sistema de monitoramento que detecta quedas de bots/usuários do discord e envia alertas em tempo real.
 🔗 https://github.com/yLegendzz/Downtime-Notifier
+
+### 📊 Speedcheck
+Site para monitorar e analisar sua conexão de Internet, medição de ping, Jitter, Download e Upload
+🔗 https://github.com/yLegendzz/Speedcheck
 
 <br>
 
